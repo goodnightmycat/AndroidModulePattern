@@ -1,0 +1,4 @@
+include ':module_login'
+include ':lib_common'
+include ':app'
+rootProject.name = "AndroidModulePattern"
